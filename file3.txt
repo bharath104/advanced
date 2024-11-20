@@ -1,1 +1,6 @@
 welcome
+good 
+bad 
+deeds
+car 
+bike 
