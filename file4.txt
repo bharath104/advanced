@@ -1,0 +1,7 @@
+ git 
+ linux 
+ docker 
+ kubernetes 
+ devops 
+ devsecops 
+ hyperautomation 
